@@ -11,6 +11,7 @@ The Caesar Cipher is one of the oldest known encryption techniques. Each letter 
 - The user is asked whether they want to encrypt or decrypt.
 - Then, the user enters the message.
 - Finally, a shift value (an integer) is entered to perform the transformation.
+- If the shift values are different for encryption and decryption, then the original message cannot be decrypted properly. Hence, the shift values for both encryption and decryption should be the same.
 
 📝 Example
 
