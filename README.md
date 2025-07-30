@@ -2,18 +2,19 @@ Caesar Cipher - Text Encryption and Decryption
 
 This is a simple Python program that implements the **Caesar Cipher** algorithm. It allows users to **encrypt** or **decrypt** text messages using a shift value.
 
-🔐 What is Caesar Cipher?
+What is Caesar Cipher?
 
 The Caesar Cipher is one of the oldest known encryption techniques. Each letter in the message is shifted by a fixed number of positions in the alphabet. For example, with a shift of `3`, `A` becomes `D`, `B` becomes `E`, and so on.
 
-🧠 How It Works
+
+How It Works
 
 - The user is asked whether they want to encrypt or decrypt.
 - Then, the user enters the message.
 - Finally, a shift value (an integer) is entered to perform the transformation.
 - If the shift values are different for encryption and decryption, then the original message cannot be decrypted properly. Hence, the shift values for both encryption and decryption should be the same.
 
-📝 Example
+Example
 
 Encrypt or Decrypt (E/D): E
 
@@ -35,11 +36,11 @@ Enter shift value (e.g., 3): 3
 
 Decrypted message: Hello World
 
-🚀 Requirements
+Requirements
 
 - Python 3.x
 
-💡 Features
+Features
 
 - Supports both encryption and decryption
 
