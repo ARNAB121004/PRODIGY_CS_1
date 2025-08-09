@@ -1,4 +1,4 @@
-Caesar Cipher - Text Encryption and Decryption
+#Caesar Cipher - Text Encryption and Decryption
 
 This is a simple Python program that implements the **Caesar Cipher** algorithm. It allows users to **encrypt** or **decrypt** text messages using a shift value.
 
