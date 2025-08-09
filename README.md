@@ -2,7 +2,7 @@
 
 This is a simple Python program that implements the **Caesar Cipher** algorithm. It allows users to **encrypt** or **decrypt** text messages using a shift value.
 
-What is Caesar Cipher?
+## What is Caesar Cipher?
 
 The Caesar Cipher is one of the oldest known encryption techniques. Each letter in the message is shifted by a fixed number of positions in the alphabet. For example, with a shift of `3`, `A` becomes `D`, `B` becomes `E`, and so on.
 
